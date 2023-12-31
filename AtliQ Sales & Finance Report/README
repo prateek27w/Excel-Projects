@@ -1,0 +1,26 @@
+📊Objective:
+AtliQ Hardware, a major player in the computer hardware and peripherals industry, serves prominent clients like Amazon, Flipkart, Neptune, Croma, and their own e-stores through multiple channels, the aim is to provide meaningful insights by analyzing sales and finance data. 💡
+
+🌟Here's a glimpse of the process I followed:
+🚀 Data Refinement: Transforming raw data into valuable business insights by using the Power Query to precisely clean the data, this includes finding errors, replacing data, handling null values, changing data-types, reshaping and much more. 
+
+📊 Data Modelling: Merged diverse datasets for comprehensive analysis and created connections among different tables  in the data model for smooth data flow.
+
+📈 Harnessing Analytical Skills: Using DAX and Power Pivot, formulated precise measures and calculated fields, converting intricate data into actionable insights.
+
+🌟Sales Report Highlights:
+📈 Customer Behavior Exploration: Uncovered customer trends by carefully analyzing the Net Sales Performance Report for different Fiscal Years.
+
+🌐 Market Performance Evaluation: By doing in-depth analysis of market performance against set targets, the areas for refinement and strategic enhancement have been identified to optimize market performance.
+
+🌟Top Parameters: Highlighted Top performing and new products by sales along with Division level report and Top countries with max sales in 2021.
+
+🌟Finance Report Insights:
+💹 Profit and Loss Report Analysis: Created P & L statement by Fiscal Year and Months using metrics such as COGS & Gross Margin for better decision making.
+
+📊 Customer Performance Analysis by FY Quarters: Quarter wise profitability intricacies by presenting Gross Margin Percentage (GM%) by (subzone) to provide actionable insights into financial nuances.
+
+🌟 Key Learnings:
+Acquired knowledge about sales and finance domain, understanding of the fiscal year, business terms like COGS, Gross Margin and their significance.
+Extensive usage of Power Pivot, Power Query, Pivot Table, DAX Measures, Dynamic Report building and much more. 
+
