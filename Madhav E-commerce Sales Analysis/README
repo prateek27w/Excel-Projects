@@ -1,0 +1,71 @@
+Hey there!
+
+Just completed the Madhav E-commerce Sales Analysis Dashboard Project using Excel! 📈
+
+It was amazing to try out the advanced data analysis and visualization capabilities of Excel compared to Power BI, its fun and valuable to implement a Power Bi project in Excel.
+
+A comprehensive sales analysis dashboard for Madhav e-commerce designed using Excel. This project allowed me to dive deep into the sales data and uncover valuable insights to drive business growth.
+
+🎯 OBJECTIVE:
+
+Madhav store owner placed a requirement to help them create a dashboard to track and analyze their online sales across India🌏
+
+📝 STEPS FOLLOWED:
+
+1. #DataExtraction: Extracted the required data (csv file) using Excel get data option.
+
+2. #DataTransformation: Loaded the data into Power query Editor for data transformation, nulls and duplicate values are removed, adjusted data types using Power Query.
+
+3. #DataLoading: The transformed data was loaded into Data Model for further analysis.
+
+4. #DataModelling: Created a logical data structure through the data modeling process in Power Pivot, enabling effective analysis and visualization using pivot tables, pivot charts, slicers, filters, various formatting and graphic tools on Excel.
+
+5. #DAXImplementation: Utilized Data Analysis Expressions (DAX) to refine the data, creating calculated measures and columns for advanced analysis.
+
+6. #Charts: Utilized different charts such as Stacked Bar Chart, Combo Charts, Pie Chart etc. to uncover insights and present data meaningfully.
+
+7. #Reports: Designed an intuitive and visually appealing dashboard, interactive visualizations and filtering capabilities using Slicers to allow users to explore the data.
+
+
+🔑 KEY INSIGHTS:
+
+✅ In January month, the net sales were at its peak, and November was the most profitable month.
+
+✅ Clothing was the most profitable category followed by Electronics. 
+
+✅ Indore city present the maximum sales as well as max profit.
+
+✅ Maharashtra state generates the maximum revenue, while most profitable state was Madhya Pradesh.
+
+✅ Printers is the most selling sub-category by sales as well as by profit.
+
+✅ Mr. Harivansh and Mr. Madhav are the most valuable customer with maximum purchases.
+
+✅ COD( Cash on Delivery) was the most preferred payment mode by people.
+
+These metrics and visualizations on the Madhav eCommerce Sales Dashboard provide valuable insights into sales performance, customer behavior, payment patterns, category performance, and profitability. By analyzing and interpreting these metrics, the store can make informed decisions to optimize their sales strategies, identify growth opportunities, and enhance overall performance in their eCommerce operations. 🔍
+
+🌟PROJECT LEARNINGS-:
+
+1. Developed a dynamic, interactive and user-friendly dashboard to monitor and analyze online sales data.
+
+2. Used advanced parameters to drill down into worksheets and enabled customization through filters and slicers.
+
+3. Established connections, joined new tables, and performed calculations to manipulate data, enabling user-driven parameters for visualizations.
+
+4. Utilized various types of customized visualizations, such as bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, maps, and slicers.
+
+🌟CHALLENGES FACED-:
+
+By doing this project in Excel apart from Power BI, I learnt some new things, like how to specifically add an image to the background so that it should visible when you initiate the print command or export the file, of course you can add a background to your excel dashboard by inserting a picture from web or other sources, but the problem comes when you try to print or export, the background image vanishes every time!
+To deal with this problem, I searched for a solution, that is when you go to Page Setup menu under the Page Layout ribbon, you can try adding the same background image in the Header Area followed by adjusting page margins, aligning and scaling the image, this would resolve the issue arising at the time of file export.
+
+A special thanks to Rishabh Mishra for providing the dataset and invaluable guidance throughout the project, and I'm grateful to Swapnjeet for providing the comprehensive tutorial on creating this wonderful excel dashboard design template using Power Point as well as in-built excel tools! 💡
+
+
+🔗 GitHub Repository link: https://github.com/prateek27w/Excel-Projects/tree/main/Madhav%20E-commerce%20Sales%20Analysis
+
+
+To all the data enthusiasts out-there, learning tools can make you technically advanced but alongside viewing data 360 degree is very important from business pov to draw insights and make informed decisions to help others, feel free to reach out! Let's connect and unlock the power of data together! 💪
+
+#Sales #DataVisualization #Ecommerce #DataDrivenInsights #Data #Job #Experience #Analytics #Transformation #Building #Project #LinkedIn
